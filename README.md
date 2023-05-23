@@ -1,5 +1,7 @@
 # Percona XtraBackup: Restore via Python (Google Cloud Bucket)
 
+![Percona XtraBackup: Restore via Python (Google Cloud Bucket)](https://i.ibb.co/BrzKcjJ/1234.png)
+
 1. Move authorization key from your Google Cloud Platform account (in JSON format) to the folder with the code.
 
 2. Change the data in *config.ini* for the project:
